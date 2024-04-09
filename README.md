@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90" />
-</div>
+
   
 <div align="center">
-  <p>🙋 요가와 여행을 사랑하는 프론트엔드 개발자입니다.</p>
-  <img width=400 src="https://github.com/youjin-10/youjin-10/blob/main/IMG_0937.jpg" alt="요가🙇" />
-	
+  <p>🙋 요가와 여행을 사랑하는 프론트엔드 개발자입니다.</p>	
 </div>
 <br />
 <br />
@@ -45,6 +41,7 @@ Here are some ideas to get you started:
   <div>
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Figma-8A2BE2"/>
   </div>
 </div>
 
