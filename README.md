@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   
 <div align="center">
-  <p>🙋 요가와 여행을 사랑하는 프론트엔드 개발자입니다.</p>	
+  <p>I love brainstorming with people and building crazy stuff together! Especially, I enjoy identifying and solving pain points for users.</p>	
 </div>
 <br />
 <br />
