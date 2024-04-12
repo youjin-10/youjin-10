@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 <div align="">
   <p>I love brainstorming with people and building crazy stuff together - especially I enjoy making applications to identify and solve pain points for users.</p>	
 </div>
-<br />
-<br />
 <div align="">
-  <p>Platforms & Languages</p>
+  <p>Languages & Frameworks & Libraries</p>
   <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -33,9 +31,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
+	  <img src="https://img.shields.io/badge/React_admin-fff"/>
   </div>
 </div>
-<br />
 <div align="">
   <p>Tools</p>
   <div>
