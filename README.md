@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   
 <div align="">
-  <p>I love brainstorming with people and building crazy stuff together - especially I enjoy making applications to identify and solve pain points for users.</p>	
+  <p>I love brainstorming with people and building crazy stuff together.<br/>Especially I enjoy making applications to identify and solve pain points for users.</p>	
 </div>
 <br/>
 <div align="">
