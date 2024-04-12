@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div align="">
   <p>I love brainstorming with people and building crazy stuff together - especially I enjoy making applications to identify and solve pain points for users.</p>	
 </div>
+<br/>
 <div align="">
   <p>Languages & Frameworks & Libraries</p>
   <div>
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 	  <img src="https://img.shields.io/badge/React_admin-fff"/>
   </div>
 </div>
+<br/>
 <div align="">
   <p>Tools</p>
   <div>
