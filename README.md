@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
   
-<div align="center">
-  <p>I love brainstorming with people and building crazy stuff together! Especially, I enjoy identifying and solving pain points for users.</p>	
+<div align="">
+  <p>I love brainstorming with people and building crazy stuff together - especially I enjoy making applications to identify and solve pain points for users.</p>	
 </div>
 <br />
 <br />
-<div align="center">
+<div align="">
   <p>Platforms & Languages</p>
   <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 <br />
-<div align="center">
+<div align="">
   <p>Tools</p>
   <div>
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
