@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   
 <div align="">
-  <p>Let's identify and solve pain points for users!</p>	
+  <a href="https://youjin-lee.me" target="_blank">Visit my website! ↗️</a>	
 </div>
 <br/>
 <div align="">
